@@ -69,7 +69,7 @@ body{
    position: relative;
    width: 100%;
    height: 80vh;
-   background: url(../almohadones/20200902_185300.jpg);
+   background: url(./img-clean/backgroundindex.jpg);
    background-attachment: fixed;  /* EFECTO PARALAX - NO SE MUEVE EN EL SCROLL */
    background-position: center;
    background-size: cover;
@@ -245,7 +245,7 @@ body{
    position: relative;
    width: 100%;
    height: 100vh;
-   background: url(../almohadones/20200902_185300.jpg);
+   background: url(./img-clean/backgroundindex.jpg);
    background-attachment: fixed;  /* EFECTO PARALAX - NO SE MUEVE EN EL SCROLL */
    background-position: center;
    background-size: cover;
